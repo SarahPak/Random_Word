@@ -1,1 +1,6 @@
 /*Write all of your CSS here*/
+
+#box{
+    margin: 0px 400px 0px 400px;
+    border: 1px solid black;
+}
